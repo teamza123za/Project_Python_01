@@ -1,5 +1,6 @@
 import random
 
+print("test")
 
 def roll():
     min_value = 1
